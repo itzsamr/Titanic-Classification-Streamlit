@@ -59,7 +59,7 @@ If you want to modify or enhance the project, you can make changes to the `titan
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [GitHub repository](https://github.com/your-username/titanic-classification/issues).
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [GitHub repository](https://github.com/itzsamr/titanic-classification/issues).
 
 If you want to contribute to the project, you can fork the repository, make your changes, and submit a pull request.
 
